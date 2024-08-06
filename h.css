@@ -1,0 +1,18 @@
+*{
+    color: #1d1d1d;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:  "Inter", sans-serif;
+
+}
+body{
+    min-height:100vh;
+    
+    background: rgb(235, 231, 231);
+     
+}
+.header{
+    width: 100%;
+    height: 72px;
+}
